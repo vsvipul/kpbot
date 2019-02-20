@@ -79,8 +79,8 @@ exports.activity = {
       "KamandPrompt/baat-cheet"
     ],
     interval: 6,
-    reminder: 10,
-    limit: 4
+    reminder: 4,
+    limit: 3
   },
   issues: {
     inProgress: "in progress",
