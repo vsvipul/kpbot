@@ -69,6 +69,7 @@ exports.activity = {
   inactive: "inactive",
   check: {
     repositories: [
+      "KamandPrompt/Car-Pool",
       "KamandPrompt/CodeManiacs",
       "KamandPrompt/MediCenter",
       "KamandPrompt/kamandprompt.github.io",
