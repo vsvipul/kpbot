@@ -1,4 +1,4 @@
-Welcome to Zulip, @{commenter}! We just sent you an invite to collaborate on this repository at https://github.com/{repoOwner}/{repoName}/invitations. Please accept this invite in order to claim this issue and begin a fun, rewarding experience contributing to KamandPrompt!
+Welcome to KamandPrompt, @{commenter}! We just sent you an invite to collaborate on this repository at https://github.com/{repoOwner}/{repoName}/invitations. Please accept this invite in order to claim this issue and begin a fun, rewarding experience contributing to KamandPrompt!
 
 Here's some tips to get you off to a good start:
 * Join me on the [KamandPrompt Chat](https://kamandprompt.zulipchat.com), to get help, chat about this issue, and meet the other developers.

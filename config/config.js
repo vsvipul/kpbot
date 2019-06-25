@@ -77,7 +77,8 @@ exports.activity = {
       "KamandPrompt/sntc",
       "KamandPrompt/Faculty-Availability",
       "KamandPrompt/GraphMate",
-      "KamandPrompt/baat-cheet"
+      "KamandPrompt/baat-cheet",
+      "KamandPrompt/CodeChef-Rating-Predictor"
     ],
     interval: 6,
     reminder: 4,
